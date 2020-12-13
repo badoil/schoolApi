@@ -1,6 +1,7 @@
 # school api 개인 프로젝트
 
 + node.js 공부하면서 만든 프로젝트
++ 관리자(선생님)가 학생 데이터를 읽고 쓰고, 수정하는 api
 
 # Javascript, Mysql, AWS, Docker, Swagger
 
